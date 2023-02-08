@@ -1,0 +1,36 @@
+.transactionHistory {
+  margin: 0 auto;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande',
+    'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.tableLine {
+  height: 70px;
+}
+
+.tableColumn {
+  width: 200px;
+  border: solid 2px black;
+}
+
+.tableHead {
+  table-layout: auto;
+  margin: 30px auto;
+  padding: 20px;
+  border: solid 3px silver;
+  border-radius: 20px;
+  background-color: rgba(15, 52, 87, 0.56);
+  color: white;
+  text-align: center;
+  font-size: 24px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande',
+    'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.tableBody {
+  text-align: center;
+  font-size: 20px;
+  width: 33%;
+  padding: 20px;
+  background-color: rgba(172, 193, 212, 0.56);
+}
